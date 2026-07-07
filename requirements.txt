@@ -1,6 +1,4 @@
 requests
 beautifulsoup4
-selenium
-webdriver-manager
 python-telegram-bot
-schedule
+python-dotenv
